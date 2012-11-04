@@ -1,5 +1,7 @@
 # Lunamark
 
+version bump
+
 Lunamark is a lua library and command-line program for conversion of markdown
 to other textual formats. Currently HTML, [dzslides] (HTML5 slides),
 Docbook, ConTeXt, LaTeX, and Groff man are the supported output formats, but
